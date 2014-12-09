@@ -1,0 +1,21 @@
+#!/usr/bin/env ruby
+require 'pathname'
+require 'siteleaf'
+require 'erb'
+
+CONF = {
+  page_id: '532f94df5dde22541e0005b0',
+  per_page: 21,
+}
+
+file = Pathname.new('./clippings/page/template.erb')
+abort unless page = Siteleaf::Page.find(CONF[:page_id])
+
+total_posts = page.posts.length
+total_pages = (total_posts.to_f / CONF[:per_page].to_f).ceil
+erb = ERB.new(file.read)
+
+(2..total_pages).each do |page_num|
+  new_file = File.open("./clippings/page/#{page_num}.html.liquid",  'w+')
+  new_file.write(erb.result(binding))
+end

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://onescenario.siteleaf.net/</loc>
+    <lastmod>2014-12-08T12:16:17+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://onescenario.siteleaf.net/writing/culture-as-they-see-it</loc>
+    <lastmod>2014-12-08T11:16:17+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://onescenario.siteleaf.net/writing/28th-rent-conference-luxembourg-the-takeaways</loc>
+    <lastmod>2014-12-09T00:34:20+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://onescenario.siteleaf.net/writing/andrew-pettigrews-message-to-young-scholars</loc>
+    <lastmod>2014-12-08T07:19:59+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://onescenario.siteleaf.net/writing/strategy-as-process-and-practice-a-short-reflection</loc>
+    <lastmod>2014-12-08T09:54:36+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://onescenario.siteleaf.net/writing/report-on-family-business-culture-research-a-brief-update-from-2012-2014</loc>
+    <lastmod>2014-12-08T21:58:27+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://onescenario.siteleaf.net/reading</loc>
+    <lastmod>2014-12-08T22:31:45+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://onescenario.siteleaf.net/about</loc>
+    <lastmod>2014-12-08T21:57:27+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+</urlset>

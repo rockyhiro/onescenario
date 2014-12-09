@@ -1,0 +1,10 @@
+Makefile
+.*
+css/*
+assets/*
+*.erb
+*.rb
+components/*
+component.json
+lib/*
+make-pagination
