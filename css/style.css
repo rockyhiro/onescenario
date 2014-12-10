@@ -326,7 +326,9 @@ hr {
   text-align: left;
 }
 
-
+.Article blockquote {
+	font-size: 80%;
+}
 
 /*
  * Archive
