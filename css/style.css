@@ -54,6 +54,7 @@ html {
 
 article,
 aside,
+caption,
 details,
 figcaption,
 figure,
@@ -94,8 +95,8 @@ dfn {
   font-style: italic;
 }
 
-small {
-  font-size: 80%; color: #b2b2ad;
+caption {
+  font-size: 80%; color: #b2b2ad; line-height: 1em; margin-top: 0.5em;
 }
 
 sub,
