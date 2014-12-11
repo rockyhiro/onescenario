@@ -1,15 +1,15 @@
 ---
-time: 1418305701
+time: 1418314244
 inventory:
   /writing/index.html:
-    md5: b9c7b3c5dad549849e6b3881b1afcfa2
-    time: 1418305008
+    md5: 0e81ff6f37d92a0882ea0fd239ed74b5
+    time: 1418314239
   /index.html:
-    md5: b9c7b3c5dad549849e6b3881b1afcfa2
-    time: 1418305008
+    md5: 0e81ff6f37d92a0882ea0fd239ed74b5
+    time: 1418314239
   /writing/why-studying-culture-in-family-business-a-personal-view/index.html:
-    md5: 8511e512da3dd637de28d3343eef4bfb
-    time: 1418305008
+    md5: ed4fd684bdb75c7dc93f30e29308f618
+    time: 1418314239
   /writing/culture-as-they-see-it/index.html:
     md5: 62dfabdc97946e603740aa7e5dcf9696
     time: 1418305008
@@ -251,11 +251,11 @@ inventory:
     md5: 6ec3e4b4d20f58d31432ff84dece92e2
     time: 1418124508
   /sitemap.xml:
-    md5: 7a997683d70b8dfd99f3de5ff1caa85d
-    time: 1418305700
+    md5: 98be04b80e9aa42dfb8d85e3448655b7
+    time: 1418314243
   /feed.xml:
-    md5: 080aba0bba9d2943937762fba488be72
-    time: 1418305700
+    md5: ad9d3f84276be313cbf8057656f87d08
+    time: 1418314243
   /assets/Intersections of culture theory and organization theory (Smircich, 1983).png:
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
