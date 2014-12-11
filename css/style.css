@@ -177,14 +177,14 @@ body {
 
 a {
   background: transparent;
-  color: #525F95;
-  color: color(#525F95 shade(40%));
+  /*color: #525F95;
+  color: color(#525F95 shade(40%));*/
   text-decoration: underline;
 }
 
 a:active,
 a:hover {
-  color: #0032f8;
+  /*color: #0032f8;*/
   outline: 0;
 }
 
@@ -288,8 +288,8 @@ hr {
   padding: 0 0.25em;
 }
 
-.HeaderNav li:last-child:after {
-  content: '';
+/*.HeaderNav li:last-child:after {
+  content: '';*/
 }
 
 .Header a {
