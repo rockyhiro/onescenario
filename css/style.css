@@ -269,6 +269,7 @@ hr {
 .HeaderNav {
   font-family: "Pitch";
   font-weight: normal;
+  font-size: 0.85rem;
 }
 
 .HeaderNav ul {
@@ -342,7 +343,7 @@ hr {
 }
 
 .Article blockquote {
-	font-family: Pitch !important;
+	font-family: Pitch !important; font-size: 90%;
 }
 
 /*
