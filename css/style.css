@@ -105,7 +105,11 @@ dfn {
 }
 
 small {
-  font-family: "Founders Grotesk Text Light" font-size: 90%;
+  font-family: "Founders Grotesk Text Light" !important; font-size: 90%;
+}
+
+blockquote {
+  font-family: "Founders Grotesk Text Light";
 }
 
 sub,
