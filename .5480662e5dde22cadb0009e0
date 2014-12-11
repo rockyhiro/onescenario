@@ -1,21 +1,21 @@
 ---
-time: 1418297543
+time: 1418297882
 inventory:
   /writing/index.html:
-    md5: aaf49d403f7b3670dde781733257819e
-    time: 1418292284
+    md5: 2b5f863da7286d5d2c7f2e5c0dd53367
+    time: 1418297877
   /index.html:
-    md5: aaf49d403f7b3670dde781733257819e
-    time: 1418292284
+    md5: 2b5f863da7286d5d2c7f2e5c0dd53367
+    time: 1418297877
   /writing/why-studying-culture-in-family-business-a-personal-view/index.html:
     md5: 591126efec7bbda6b6ded60d5a76490a
     time: 1418292284
   /writing/culture-as-they-see-it/index.html:
     md5: d0b9bcb1fb674ff1c027b795557b5f40
     time: 1418292284
-  /writing/28th-rent-conference-luxembourg-the-takeaways/index.html:
-    md5: 0de231155a9d95f7247dc9bef4c6a82e
-    time: 1418292284
+  /writing/28th-rent-conference-luxembourg-takeaways/index.html:
+    md5: 3ef46df203710b8fa7354f9f1d64a372
+    time: 1418297877
   /writing/andrew-pettigrews-message-to-young-scholars/index.html:
     md5: c08e092fbf953f0cd5097992f475424b
     time: 1418292284
@@ -248,11 +248,11 @@ inventory:
     md5: 6ec3e4b4d20f58d31432ff84dece92e2
     time: 1418124508
   /sitemap.xml:
-    md5: 9ee654312c1cfa9c792f2be4c63d40d9
-    time: 1418297542
+    md5: 29a5a3c62c823bc79b069677a9964213
+    time: 1418297881
   /feed.xml:
-    md5: b4fcd0e2025c85a85c56ac89854d05a0
-    time: 1418297542
+    md5: 8236b7a88cdfef66bddbcd85eaa75753
+    time: 1418297881
   /assets/Intersections of culture theory and organization theory (Smircich, 1983).png:
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
