@@ -1,9 +1,0 @@
-assets
-.images
-.DS_Store
-config.ru
-.ruby-version
-build/*
-clippings/page/*.liquid
-css/highlight/*
-.config.yml
