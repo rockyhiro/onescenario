@@ -28,6 +28,22 @@
 
 @font-face {
   font-family: TiemposText;
+  src: url('TiemposText-Semibold.eot'); /* IE9 Compat Modes */
+  src: url('TiemposText-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: TiemposText;
+  src: url('TiemposText-SemiboldItalic.eot'); /* IE9 Compat Modes */
+  src: url('TiemposText-SemiboldItalic.woff') format('woff'); /* Pretty Modern Browsers */
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: TiemposHeadline;
   src: url('TiemposHeadlineWeb-Semibold.eot'); /* IE9 Compat Modes */
   src: url('TiemposHeadlineWeb-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
@@ -192,7 +208,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: var(--monospace);
+  font-family: Pitch;
   font-size: 0.875em;
   hyphens: none;
 }
@@ -315,7 +331,7 @@ hr {
 
 .Article h1,
 .Title {
-  font-family: TiemposText, georgia;
+  font-family: TiemposHeadline, georgia;
   font-size: 2.125rem;
   font-weight: bold;
   line-height: 1.1;
@@ -370,7 +386,7 @@ hr {
 
 .Archive .Article h1 {
   font-size: 1.25rem;
-  font-weight: 500;
+  font-weight: normal;
   margin: 0 0 0.25em;
 }
 
@@ -549,7 +565,7 @@ hr {
 
 .Pagination,
 .lazy-loader {
-  font-family: var(--headline-font);
+  font-family: TiemposHeadline;
   font-size: 0.95rem;
   text-align: center;
 }
