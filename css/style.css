@@ -42,6 +42,14 @@
   font-weight: normal;
 }
 
+@font-face {
+  font-family: Pitch;
+  src: url('Pitch.eot'); /* IE9 Compat Modes */
+  src: url('Pitch.woff') format('woff'); /* Pretty Modern Browsers */
+  font-style: normal;
+  font-weight: normal;
+}
+
 /*
  * Normalize
  */
@@ -325,7 +333,9 @@ hr {
   text-align: left;
 }
 
-
+.Article blockquote {
+	font-family: Pitch !important;
+}
 
 /*
  * Archive
