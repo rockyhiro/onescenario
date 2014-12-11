@@ -218,7 +218,7 @@ hr {
 
 .FIN {
   border: 0;
-  color: color(var(--off-white) shade(10%));
+  color: #fafafc;
   /*height: 1em;*/
   margin: 1rem auto;
   text-align: center;
