@@ -221,12 +221,12 @@ hr {
   color: #fafafc shade(10%);
   /*height: 1em;*/
   margin: 1rem auto;
-  text-align: center;
 }
 
 .FIN:before {
   content: '***';
   display: block;
+  text-align: center;
 }
 
 .FIN:after {
