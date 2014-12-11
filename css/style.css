@@ -27,7 +27,7 @@
 }
 
 @font-face {
-	font-family: TiemposText;
+  font-family: TiemposText;
   src: url('TiemposHeadlineWeb-Semibold.eot'); /* IE9 Compat Modes */
   src: url('TiemposHeadlineWeb-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
@@ -35,21 +35,12 @@
 }
 
 @font-face {
-	font-family: 'Founders Grotesk Medium';
+  font-family: 'Founders Grotesk Medium';
   src: url('FoundersGroteskWeb-Medium.eot'); /* IE9 Compat Modes */
   src: url('FoundersGroteskWeb-Medium.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
-
-@font-face {
-  font-family: "Founders Grotesk Text Light";
-  src: url('FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
-  src: url('FoundersGroteskTextWeb-Light.woff') format('woff'); /* Pretty Modern Browsers */
-  font-style: normal;
-  font-weight: normal;
-}
-
 
 /*
  * Normalize
@@ -63,7 +54,6 @@ html {
 
 article,
 aside,
-small,
 details,
 figcaption,
 figure,
@@ -105,11 +95,7 @@ dfn {
 }
 
 small {
-  font-family: "Founders Grotesk Text Light" !important; font-size: 90%;
-}
-
-blockquote {
-  font-family: "Founders Grotesk Text Light";
+  font-size: 80%; color: #b2b2ad;
 }
 
 sub,
@@ -215,17 +201,15 @@ img {
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
-  /*height: 0;*/
-}
-
+  height: 0;
 }
 
 .FIN {
   border: 0;
+  color: color(#fafafc shade(10%));
   /*height: 1em;*/
   margin: 1rem auto;
   text-align: center;
-  color: #fafafc;
 }
 
 .FIN:before {
@@ -283,7 +267,7 @@ hr {
 
 .HeaderNav li:after {
   display: inline-block;
-  content: '• ';
+  content: 'â€¢ ';
   padding: 0 0.25em;
 }
 
@@ -341,6 +325,8 @@ hr {
   text-align: left;
 }
 
+
+
 /*
  * Archive
  */
@@ -377,6 +363,7 @@ hr {
 
 .footnotes hr {
   border: 0;
+  height: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
