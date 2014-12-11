@@ -42,6 +42,15 @@
   font-weight: normal;
 }
 
+@font-face {
+  font-family: "Founders Grotesk Text Light";
+  src: url('FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
+  src: url('FoundersGroteskTextWeb-Light.woff') format('woff'); /* Pretty Modern Browsers */
+  font-style: normal;
+  font-weight: normal;
+}
+
+
 /*
  * Normalize
  */
@@ -96,7 +105,7 @@ dfn {
 }
 
 small {
-  font-size: 90%;
+  font-family: "Founders Grotesk Text Light" font-size: 90%;
 }
 
 sub,
