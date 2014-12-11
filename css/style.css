@@ -211,22 +211,22 @@ img {
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
-  height: 0;
+  /*height: 0;*/
 }
 
 }
 
 .FIN {
   border: 0;
-  color: #fafafc shade(10%);
+  color: color(var(--off-white) shade(10%));
   /*height: 1em;*/
   margin: 1rem auto;
+  text-align: center;
 }
 
 .FIN:before {
   content: '***';
   display: block;
-  text-align: center;
 }
 
 .FIN:after {
@@ -373,7 +373,6 @@ hr {
 
 .footnotes hr {
   border: 0;
-  height: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
