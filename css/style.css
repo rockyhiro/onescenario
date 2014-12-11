@@ -218,7 +218,6 @@ hr {
 
 .FIN {
   border: 0;
-  color: #fafafc;
   /*height: 1em;*/
   margin: 1rem auto;
   text-align: center;
@@ -227,6 +226,7 @@ hr {
 .FIN:before {
   content: '***';
   display: block;
+  color: #fafafc;
 }
 
 .FIN:after {
