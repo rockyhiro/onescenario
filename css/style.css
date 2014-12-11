@@ -95,7 +95,11 @@ dfn {
 }
 
 small {
+<<<<<<< HEAD
   font-size: 80%; color: #b2b2ad;
+=======
+  font-size: 90%; color: #616568;
+>>>>>>> parent of 8d01339... color black
 }
 
 sub,
