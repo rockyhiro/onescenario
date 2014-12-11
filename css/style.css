@@ -211,13 +211,14 @@ img {
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
-  height: 0;
+  /*height: 0;*/
 }
 
 }
 
 .FIN {
   border: 0;
+  color: #fafafc shade(10%);
   /*height: 1em;*/
   margin: 1rem auto;
   text-align: center;
