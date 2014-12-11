@@ -44,9 +44,17 @@
 
 @font-face {
   font-family: Pitch;
-  src: url('Pitch.eot'); /* IE9 Compat Modes */
-  src: url('Pitch.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Pitch-Regular.eot'); /* IE9 Compat Modes */
+  src: url('Pitch-Regular.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Pitch;
+  src: url('Pitch-Italic.eot'); /* IE9 Compat Modes */
+  src: url('Pitch-Italic.woff') format('woff'); /* Pretty Modern Browsers */
+  font-style: italic;
   font-weight: normal;
 }
 
@@ -163,7 +171,7 @@ body {
   color: #16161d;
   font-size: 1.05rem;
   font-family: TiemposText, georgia, serif;
-  line-height: 1.6;
+  line-height: 1.7;
   margin: 0;
 }
 
@@ -334,7 +342,7 @@ hr {
 }
 
 .Article blockquote {
-	font-family: Pitch !important;
+	font-family: Pitch !important; font-size: 90%;
 }
 
 /*
