@@ -127,7 +127,7 @@ dfn {
 }
 
 small {
-  font-family: Pitch !important; font-size: 90%; color: #b2b2ad;
+  font-family: Pitch !important; line-height: 17px !important; font-size: 85%; color: #b2b2ad;
 }
 
 sub,
