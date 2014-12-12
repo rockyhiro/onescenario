@@ -150,7 +150,7 @@ svg:not(:root) {
   overflow: hidden;
 }
 
-figure {
+figcaption {
   margin-bottom: 2em;
   font-family: Pitch !important;
   line-height: 17px !important;
