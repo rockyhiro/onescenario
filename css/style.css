@@ -126,7 +126,7 @@ dfn {
   font-style: italic;
 }
 
-small {
+.Article small {
   font-family: Pitch !important; line-height: 17px !important; font-size: 85%;
 }
 
