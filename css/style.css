@@ -150,9 +150,8 @@ svg:not(:root) {
   overflow: hidden;
 }
 
-.Article figure {
-  margin-top: 1em;
-  margin-bottom: 1em;
+figure {
+  margin-bottom: 2em;
   font-family: Pitch !important;
   line-height: 17px !important;
   font-size: 85%;
