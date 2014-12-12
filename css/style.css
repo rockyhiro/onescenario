@@ -127,7 +127,7 @@ dfn {
 }
 
 small {
-  font-family: Pitch !important; margin-top: 0.5em; font-size: 90%;
+  font-family: Pitch !important; margin-top: 1em !important; font-size: 90%;
 }
 
 sub,
