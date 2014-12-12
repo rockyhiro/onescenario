@@ -1,5 +1,5 @@
 ---
-time: 1418343695
+time: 1418343856
 inventory:
   /writing/index.html:
     md5: 0e81ff6f37d92a0882ea0fd239ed74b5
@@ -11,8 +11,8 @@ inventory:
     md5: ed4fd684bdb75c7dc93f30e29308f618
     time: 1418332452
   /writing/culture-as-they-see-it/index.html:
-    md5: 3dffe2a4ffb69a2ec6c38e03d07b3d14
-    time: 1418343690
+    md5: e5b644093b7a6283c1b4430007df2b7b
+    time: 1418343851
   /writing/28th-rent-conference-luxembourg-takeaways/index.html:
     md5: 8cdb1488afc0ae5b9ed26013fc334de5
     time: 1418338218
@@ -251,11 +251,11 @@ inventory:
     md5: 6ec3e4b4d20f58d31432ff84dece92e2
     time: 1418124508
   /sitemap.xml:
-    md5: 0190ecefd454cc93a41ca55894ed240d
-    time: 1418343694
+    md5: 27c61c0fc98c4ee28ddd3ac69e5dea58
+    time: 1418343856
   /feed.xml:
-    md5: 191b506e23adfab6f8369d59c826aa1c
-    time: 1418343694
+    md5: 65aefd2c7a4e0bb0b3008dfcf5d01ca5
+    time: 1418343856
   /assets/Intersections of culture theory and organization theory (Smircich, 1983).png:
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
