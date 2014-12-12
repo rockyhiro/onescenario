@@ -150,7 +150,7 @@ svg:not(:root) {
   overflow: hidden;
 }
 
-figure {
+.Article figure {
   margin-top: 1em;
   margin-bottom: 1em;
   font-family: Pitch !important;
