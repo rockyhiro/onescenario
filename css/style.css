@@ -152,6 +152,9 @@ svg:not(:root) {
 
 figure {
   margin: 1em 40px;
+  font-family: Pitch !important;
+  line-height: 17px !important;
+  font-size: 85%;
 }
 
 table {
