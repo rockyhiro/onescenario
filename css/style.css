@@ -151,7 +151,8 @@ svg:not(:root) {
 }
 
 figure {
-  margin: 1em 40px;
+  margin-top: 1em;
+  margin-bottom: 1em;
   font-family: Pitch !important;
   line-height: 17px !important;
   font-size: 85%;
