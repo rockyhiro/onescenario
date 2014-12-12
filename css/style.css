@@ -127,7 +127,7 @@ dfn {
 }
 
 small {
-  font-family: Pitch !important; line-height: 17px; font-size: 85%;
+  font-family: Pitch !important; line-height: 17px !important; font-size: 85%;
 }
 
 sub,
@@ -229,7 +229,6 @@ img {
   border: 0;
   max-width: 100%;
   margin-top: 2em;
-  margin-bottom: 1px !important;
 }
 
 hr {
