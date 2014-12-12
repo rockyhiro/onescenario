@@ -127,7 +127,7 @@ dfn {
 }
 
 small {
-  font-family: Pitch !important; line-height: 17px; font-size: 85%; color: #b2b2ad;
+  font-family: Pitch !important; line-height: 17px; font-size: 85%;
 }
 
 sub,
@@ -228,6 +228,7 @@ mark {
 img {
   border: 0;
   max-width: 100%;
+  margin-bottom: 0 !important;
 }
 
 hr {
@@ -360,11 +361,6 @@ hr {
 
 .Article blockquote {
 	font-family: Pitch !important; font-size: 90%;
-}
-
-.Article caption {
-  line-height: 1em;
-  font-size: 85%;
 }
 
 /*
