@@ -130,10 +130,6 @@ small {
   font-family: Pitch !important; line-height: 17px; font-size: 85%; color: #b2b2ad;
 }
 
-img {
-  margin-bottom: 5px;
-}
-
 sub,
 sup {
   font-size: 75%;
@@ -232,6 +228,8 @@ mark {
 img {
   border: 0;
   max-width: 100%;
+  margin-bottom: 0;
+  line-height: 1em;
 }
 
 hr {
