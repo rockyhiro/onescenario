@@ -1,5 +1,5 @@
 ---
-time: 1418344300
+time: 1418344398
 inventory:
   /writing/index.html:
     md5: 25636373f485b3b17fc87d83ead92d15
@@ -14,8 +14,8 @@ inventory:
     md5: 8727eca19fe954cc446149a966668236
     time: 1418344113
   /writing/28th-rent-conference-luxembourg-takeaways/index.html:
-    md5: 1d66f7b3eb734d2f0f3e8e7e62e6071e
-    time: 1418344295
+    md5: ed8575fb0810cd8829b3d458b5becf38
+    time: 1418344393
   /writing/andrew-pettigrews-message-to-young-scholars/index.html:
     md5: a850b79d34921e8907a88daa187180cd
     time: 1418332452
@@ -251,11 +251,11 @@ inventory:
     md5: 6ec3e4b4d20f58d31432ff84dece92e2
     time: 1418124508
   /sitemap.xml:
-    md5: 9f59ecbbee32e3efff3929a56e203238
-    time: 1418344299
+    md5: cc27434ab23ddbbf7fd649a15a388d78
+    time: 1418344398
   /feed.xml:
-    md5: 6f37ba83e295787885b8cb8cf2123ff1
-    time: 1418344299
+    md5: 749281b645f005da1a9bb8d73d115a52
+    time: 1418344398
   /assets/Intersections of culture theory and organization theory (Smircich, 1983).png:
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
