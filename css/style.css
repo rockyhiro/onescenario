@@ -60,16 +60,16 @@
 
 @font-face {
   font-family: Pitch;
-  src: url('Pitch-Regular.eot'); /* IE9 Compat Modes */
-  src: url('Pitch-Regular.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Pitch-MediumRegular.eot'); /* IE9 Compat Modes */
+  src: url('Pitch-MediumRegular.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: Pitch;
-  src: url('Pitch-Italic.eot'); /* IE9 Compat Modes */
-  src: url('Pitch-Italic.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Pitch-MediumItalic.eot'); /* IE9 Compat Modes */
+  src: url('Pitch-MediumItalic.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: italic;
   font-weight: normal;
 }
