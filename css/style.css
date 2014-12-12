@@ -228,7 +228,6 @@ mark {
 img {
   border: 0;
   max-width: 100%;
-  line-height: 0;
 }
 
 hr {
@@ -361,6 +360,11 @@ hr {
 
 .Article blockquote {
 	font-family: Pitch !important; font-size: 90%;
+}
+
+.Article caption {
+  line-height: 1em;
+  font-size: 85%;
 }
 
 /*
