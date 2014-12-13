@@ -6,41 +6,41 @@
   --off-white: #fafafc;
 
   --headline-font: "Founders Grotesk Medium", sans-serif;
-  --body-font: Plantin, georgia, serif;
+  --body-font: TiemposText, georgia, serif;
   --monospace: Consolas, Monaco, Menlo, monospace;
 }
 
 @font-face {
-  font-family: Plantin;
-  src: url('Copernicus-Book.eot'); /* IE9 Compat Modes */
-  src: url('Copernicus-Book.woff') format('woff'); /* Pretty Modern Browsers */
+  font-family: TiemposText;
+  src: url('TiemposTextWeb-Regular.eot'); /* IE9 Compat Modes */
+  src: url('TiemposTextWeb-Regular.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
-  font-family: Plantin;
-  src: url('Copernicus-BookItalic.eot'); /* IE9 Compat Modes */
-  src: url('Copernicus-BookItalic.woff') format('woff'); /* Pretty Modern Browsers */
+  font-family: TiemposText;
+  src: url('TiemposTextWeb-RegularItalic.eot'); /* IE9 Compat Modes */
+  src: url('TiemposTextWeb-RegularItalic.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: italic;
   font-weight: normal;
 }
 
 @font-face {
-  font-family: Plantin;
-  src: url('Copernicus-Bold.eot'); /* IE9 Compat Modes */
-  src: url('Copernicus-Bold.woff') format('woff'); /* Pretty Modern Browsers */
+  font-family: TiemposText;
+  src: url('TiemposText-Semibold.eot'); /* IE9 Compat Modes */
+  src: url('TiemposText-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: bold;
 }
 
-/*@font-face {
+@font-face {
   font-family: TiemposHeadline;
   src: url('TiemposHeadlineWeb-Semibold.eot');
   src: url('TiemposHeadlineWeb-Semibold.woff') format('woff');
   font-style: normal;
   font-weight: bold;
-}*/
+}
 
 @font-face {
   font-family: 'Founders Grotesk Medium';
@@ -181,7 +181,7 @@ html {
 body {
   color: #16161d;
   font-size: 1.05rem;
-  font-family: Plantin, georgia, serif;
+  font-family: TiemposText, georgia, serif;
   line-height: 1.7;
   margin: 0;
 }
@@ -327,7 +327,7 @@ hr {
 
 .Article h1,
 .Title {
-  font-family: Plantin, georgia;
+  font-family: TiemposHeadline, georgia;
   font-size: 2.125rem;
   font-weight: bold;
   line-height: 1.1;
@@ -562,7 +562,7 @@ hr {
 
 .Pagination,
 .lazy-loader {
-  font-family: Plantin;
+  font-family: TiemposText;
   font-size: 0.95rem;
   text-align: center;
 }
