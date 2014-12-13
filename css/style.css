@@ -261,9 +261,13 @@ hr {
  */
 
 .Header,
-.Footer,
-.footnotes {
+.Footer {
   font-size: 0.90rem;
+}
+
+.footnotes {
+  font-size: 0.95rem;
+
 }
 
 /*
