@@ -607,6 +607,7 @@ hr {
 .Footer {
   margin: 3rem auto;
   text-align: center;
+  font-family: FoundersGroteskTextLight;
 }
 
 @media (min-width: 40em) {
