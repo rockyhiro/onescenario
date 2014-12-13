@@ -42,29 +42,29 @@
   font-weight: bold;
 }
 
-@font-face {
-  font-family: 'Founders Grotesk Medium';
-  src: url('FoundersGroteskWeb-Medium.eot'); /* IE9 Compat Modes */
-  src: url('FoundersGroteskWeb-Medium.woff') format('woff'); /* Pretty Modern Browsers */
-  font-style: normal;
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: FoundersGroteskTextLight;
-  src: url('FoundersGroteskMono-Light_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('FoundersGroteskMono-Light_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
-  font-style: normal;
-  font-weight: normal;
-}
-
 /*@font-face {
-  font-family: FoundersGroteskTextLight;
-  src: url('FoundersGroteskText-LightItalic_directwrite.eot');
-  src: url('FoundersGroteskText-LightItalic_directwrite.woff') format('woff');
-  font-style: italic;
+  font-family: 'Founders Grotesk Medium';
+  src: url('FoundersGroteskWeb-Medium.eot');
+  src: url('FoundersGroteskWeb-Medium.woff') format('woff');
+  font-style: normal;
   font-weight: normal;
 }*/
+
+@font-face {
+  font-family: FoundersGroteskTextLight;
+  src: url('Pitch_directwrite.eot'); /* IE9 Compat Modes */
+  src: url('Pitch_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: FoundersGroteskTextLight;
+  src: url('Pitch-Italic_directwrite.eot');
+  src: url('Pitch-Italic_directwrite.woff') format('woff');
+  font-style: italic;
+  font-weight: normal;
+}
 
 /*
  * Normalize
@@ -279,7 +279,7 @@ hr {
 }
 
 .HeaderNav {
-  font-family: "Founders Grotesk Medium";
+  font-family: FoundersGroteskTextLight;
   font-weight: normal;
 }
 
@@ -295,7 +295,7 @@ hr {
 
 .HeaderNav li:after {
   display: inline-block;
-  content: '• ';
+  content: ' • ';
   padding: 0 0.25em;
 }
 
