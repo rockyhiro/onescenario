@@ -298,7 +298,10 @@ hr {
 .HeaderNav li:after {
   display: inline-block;
   content: '•';
-  padding: 0 1em;
+  padding-top: 0;
+  padding-right: 0.25em;
+  padding-left: 0;
+  padding-bottom: 0;
 }
 
 .HeaderNav li:last-child:after {
