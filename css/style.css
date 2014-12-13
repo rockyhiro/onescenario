@@ -355,7 +355,7 @@ hr {
 }
 
 .Article blockquote {
-	font-family: FoundersGroteskTextLight !important;
+	font-family: FoundersGroteskTextLight !important; font-size: 90%;
 }
 
 /*
