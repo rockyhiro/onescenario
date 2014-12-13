@@ -52,19 +52,19 @@
 
 @font-face {
   font-family: FoundersGroteskTextLight;
-  src: url('FoundersGroteskTextWeb-Light.eot'); /* IE9 Compat Modes */
-  src: url('FoundersGroteskTextWeb-Light.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('FoundersGroteskMono-Light_directwrite.eot'); /* IE9 Compat Modes */
+  src: url('FoundersGroteskMono-Light_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
 
-@font-face {
+/*@font-face {
   font-family: FoundersGroteskTextLight;
-  src: url('FoundersGroteskText-LightItalic_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('FoundersGroteskText-LightItalic_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('FoundersGroteskText-LightItalic_directwrite.eot');
+  src: url('FoundersGroteskText-LightItalic_directwrite.woff') format('woff');
   font-style: italic;
   font-weight: normal;
-}
+}*/
 
 /*
  * Normalize
