@@ -296,7 +296,7 @@ hr {
 .HeaderNav li:after {
   display: inline-block;
   content: '• ';
-  padding: 0 0.5em;
+  padding: 0 0.15em;
 }
 
 .HeaderNav li:last-child:after {
