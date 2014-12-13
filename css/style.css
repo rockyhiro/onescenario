@@ -295,8 +295,8 @@ hr {
 
 .HeaderNav li:after {
   display: inline-block;
-  content: '• ';
-  padding: 0 0.15em;
+  content: '•';
+  padding: 0 1em;
 }
 
 .HeaderNav li:last-child:after {
