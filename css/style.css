@@ -12,24 +12,24 @@
 
 @font-face {
   font-family: Plantin;
-  src: url('PlantinMTPro-Regular_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('PlantinMTPro-Regular_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Copernicus-Book.eot'); /* IE9 Compat Modes */
+  src: url('Copernicus-Book.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: Plantin;
-  src: url('PlantinMTPro-Italic_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('PlantinMTPro-Italic_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Copernicus-BookItalic.eot'); /* IE9 Compat Modes */
+  src: url('Copernicus-BookItalic.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: italic;
   font-weight: normal;
 }
 
 @font-face {
   font-family: Plantin;
-  src: url('PlantinMTPro-Bold_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('PlantinMTPro-Bold_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Copernicus-Bold.eot'); /* IE9 Compat Modes */
+  src: url('Copernicus-Bold.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: bold;
 }
