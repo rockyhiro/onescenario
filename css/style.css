@@ -275,6 +275,8 @@ hr {
 }
 
 .HeaderAbout {
+  font-family: FoundersGroteskTextLight;
+  font-weight: normal;
   margin: 0 0 0.5em;
 }
 
