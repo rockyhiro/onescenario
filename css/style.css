@@ -51,7 +51,7 @@
 }*/
 
 @font-face {
-  font-family: FoundersGroteskTextLight;
+  font-family: Pitch;
   src: url('Pitch_directwrite.eot'); /* IE9 Compat Modes */
   src: url('Pitch_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
@@ -59,7 +59,7 @@
 }
 
 @font-face {
-  font-family: FoundersGroteskTextLight;
+  font-family: Pitch;
   src: url('Pitch-Italic_directwrite.eot');
   src: url('Pitch-Italic_directwrite.woff') format('woff');
   font-style: italic;
@@ -144,7 +144,7 @@ svg:not(:root) {
 
 figcaption {
   margin-bottom: 2em;
-  font-family: FoundersGroteskTextLight !important;
+  font-family: Pitch !important;
   line-height: 17px !important;
   font-size: 85%;
 }
@@ -279,13 +279,13 @@ hr {
 }
 
 .HeaderAbout {
-  font-family: FoundersGroteskTextLight;
+  font-family: Pitch;
   font-weight: normal;
   margin: 0 0 0.5em;
 }
 
 .HeaderNav {
-  font-family: FoundersGroteskTextLight;
+  font-family: Pitch;
   font-weight: normal;
 }
 
@@ -353,7 +353,7 @@ hr {
 }
 
 .Article time {
-  font-family: FoundersGroteskTextLight;
+  font-family: Pitch;
   color: #b2b2ad;
   display: block;
   font-size: 0.95rem;
@@ -364,7 +364,7 @@ hr {
 }
 
 .Article blockquote {
-	font-family: FoundersGroteskTextLight !important; font-size: 90%;
+	font-family: Pitch !important; font-size: 90%;
 }
 
 /*
@@ -611,7 +611,7 @@ hr {
 .Footer {
   margin: 3rem auto;
   text-align: center;
-  font-family: FoundersGroteskTextLight;
+  font-family: Pitch;
 }
 
 @media (min-width: 40em) {
