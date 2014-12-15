@@ -172,7 +172,7 @@ html {
   font-size: 14px;
 }
 
-@media (min-width: 35em) {
+@media (min-width: 40em) {
   html {
     font-size: 16px;
   }
