@@ -172,7 +172,7 @@ html {
   font-size: 14px;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 30em) {
   html {
     font-size: 16px;
   }
@@ -251,7 +251,7 @@ hr {
 
 .Wrapper {
   margin: 0 auto;
-  max-width: 640px;
+  max-width: 620px;
   padding: 0 1rem;
 }
 
