@@ -12,8 +12,8 @@
 
 @font-face {
   font-family: TiemposText;
-  src: url('Pitch_gdi.eot'); /* IE9 Compat Modes */
-  src: url('Pitch_gdi.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('NittiPX-Normal_directwrite.eot'); /* IE9 Compat Modes */
+  src: url('NittiPX-Normal_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
