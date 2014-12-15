@@ -12,32 +12,32 @@
 
 @font-face {
   font-family: TiemposText;
-  src: url('NittiPX-Normal_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('NittiPX-Normal_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Pitch_gdi.eot'); /* IE9 Compat Modes */
+  src: url('Pitch_gdi.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: TiemposText;
-  src: url('NittiPX-NormalItalic_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('NittiPX-NormalItalic_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Pitch-Italic_directwrite.eot'); /* IE9 Compat Modes */
+  src: url('Pitch-Italic_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: italic;
   font-weight: normal;
 }
 
 @font-face {
   font-family: TiemposText;
-  src: url('TiemposText-Semibold.eot'); /* IE9 Compat Modes */
-  src: url('TiemposText-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Pitch-Bold_directwrite.eot'); /* IE9 Compat Modes */
+  src: url('Pitch-Bold_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: bold;
 }
 
 @font-face {
   font-family: TiemposHeadline;
-  src: url('TiemposHeadlineWeb-Semibold.eot');
-  src: url('TiemposHeadlineWeb-Semibold.woff') format('woff');
+  src: url('Pitch-Bold_directwrite.eot');
+  src: url('Pitch-Bold_directwrite.woff') format('woff');
   font-style: normal;
   font-weight: bold;
 }
