@@ -251,8 +251,7 @@ hr {
 
 .Wrapper {
   margin: 0 auto;
-  max-width: 680px;
-  max-width: 35rem;
+  max-width: 700px;
   padding: 0 1rem;
 }
 
