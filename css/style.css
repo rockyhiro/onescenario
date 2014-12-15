@@ -172,7 +172,7 @@ html {
   font-size: 14px;
 }
 
-@media (min-width: 32.5em) {
+@media (min-width: 35em) {
   html {
     font-size: 16px;
   }
@@ -180,9 +180,9 @@ html {
 
 body {
   color: #16161d;
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   font-family: TiemposText, georgia, serif;
-  line-height: 1.7;
+  line-height: 1.6;
   margin: 0;
 }
 
