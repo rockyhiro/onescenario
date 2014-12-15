@@ -180,7 +180,7 @@ html {
 
 body {
   color: #16161d;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-family: TiemposText, georgia, serif;
   line-height: 1.6;
   margin: 0;
@@ -261,7 +261,7 @@ hr {
 
 .Header,
 .Footer {
-  font-size: 0.90rem;
+  font-size: 0.95rem;
 }
 
 .footnotes {
