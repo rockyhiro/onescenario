@@ -13,7 +13,7 @@
 @font-face {
   font-family: TiemposText;
   /*src: url('TiemposTextWeb-Regular.eot'); IE9 Compat Modes */
-  src: url('Breve Text Book.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Breve News Book.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
@@ -21,7 +21,7 @@
 @font-face {
   font-family: TiemposText;
   /*src: url('TiemposTextWeb-RegularItalic.eot'); IE9 Compat Modes */
-  src: url('Breve Text Book Italic.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Breve News Book Italic.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: italic;
   font-weight: normal;
 }
