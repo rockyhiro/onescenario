@@ -12,16 +12,16 @@
 
 @font-face {
   font-family: TiemposText;
-  src: url('NittiPX-Normal_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('NittiPX-Normal_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('TiemposTextWeb-Regular.eot'); /* IE9 Compat Modes */
+  src: url('TiemposTextWeb-Regular.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: TiemposText;
-  src: url('NittiPX-NormalItalic_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('NittiPX-NormalItalic_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('TiemposTextWeb-RegularItalic.eot'); /* IE9 Compat Modes */
+  src: url('TiemposTextWeb-RegularItalic.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: italic;
   font-weight: normal;
 }
@@ -180,7 +180,7 @@ html {
 
 body {
   color: #16161d;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-family: TiemposText, georgia, serif;
   line-height: 1.7;
   margin: 0;
@@ -251,7 +251,7 @@ hr {
 
 .Wrapper {
   margin: 0 auto;
-  max-width: 620px;
+  max-width: 600px;
   padding: 0 1rem;
 }
 
