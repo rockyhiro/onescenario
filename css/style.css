@@ -172,7 +172,7 @@ html {
   font-size: 14px;
 }
 
-@media (min-width: 40em) {
+@media (min-width: 42.5em) {
   html {
     font-size: 16px;
   }
@@ -180,7 +180,7 @@ html {
 
 body {
   color: #16161d;
-  font-size: 1.05rem;
+  font-size: 1rem;
   font-family: TiemposText, georgia, serif;
   line-height: 1.75;
   margin: 0;
@@ -251,7 +251,7 @@ hr {
 
 .Wrapper {
   margin: 0 auto;
-  max-width: 640px;
+  max-width: 620px;
   padding: 0 1rem;
 }
 
