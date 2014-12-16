@@ -12,32 +12,32 @@
 
 @font-face {
   font-family: TiemposText;
-  src: url('NittiPX-Normal_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('NittiPX-Normal_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('TiemposTextWeb-Regular.eot'); /* IE9 Compat Modes */
+  src: url('TiemposTextWeb-Regular.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: TiemposText;
-  src: url('NittiPX-NormalItalic_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('NittiPX-NormalItalic_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('TiemposTextWeb-RegularItalic.eot'); /* IE9 Compat Modes */
+  src: url('TiemposTextWeb-RegularItalic.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: italic;
   font-weight: normal;
 }
 
 @font-face {
   font-family: TiemposText;
-  src: url('NittiPX-Bold_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('NittiPX-Bold_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('TiemposText-Semibold.eot'); /* IE9 Compat Modes */
+  src: url('TiemposText-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: bold;
 }
 
 @font-face {
   font-family: TiemposHeadline;
-  src: url('NittiPX-Bold_directwrite.eot');
-  src: url('NittiPX-Bold_directwrite.woff') format('woff');
+  src: url('TiemposHeadlineWeb-Semibold.eot');
+  src: url('TiemposHeadlineWeb-Semibold.woff') format('woff');
   font-style: normal;
   font-weight: bold;
 }
@@ -52,16 +52,16 @@
 
 @font-face {
   font-family: Pitch;
-  src: url('NittiPX-Normal_directwrite.eot'); /* IE9 Compat Modes */
-  src: url('NittiPX-Normal_directwrite.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('Pitch_gdi.eot'); /* IE9 Compat Modes */
+  src: url('Pitch_gdi.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: Pitch;
-  src: url('NittiPX-NormalItalic_directwrite.eot');
-  src: url('NittiPX-NormalItalic_directwrite.woff') format('woff');
+  src: url('Pitch-Italic_directwrite.eot');
+  src: url('Pitch-Italic_directwrite.woff') format('woff');
   font-style: italic;
   font-weight: normal;
 }
@@ -180,9 +180,9 @@ html {
 
 body {
   color: #16161d;
-  font-size: 1.2rem;
+  font-size: 1.05rem;
   font-family: TiemposText, georgia, serif;
-  line-height: 1.6;
+  line-height: 1.75;
   margin: 0;
 }
 
