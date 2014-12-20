@@ -180,9 +180,9 @@ html {
 
 body {
   color: #16161d;
-  font-size: 1.15rem;
+  font-size: 1.1rem;
   font-family: TiemposText, georgia, serif;
-  line-height: 1.75;
+  line-height: 1.7;
   margin: 0;
 }
 
@@ -363,7 +363,7 @@ hr {
 }
 
 .Article blockquote {
-	font-family: Pitch !important; font-size: 90%;
+	font-family: Pitch !important; font-size: 85%;
 }
 
 /*
