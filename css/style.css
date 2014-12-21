@@ -316,9 +316,9 @@ hr {
 
 .HeaderNav li:after {
   display: inline-block;
-  content: '•';
+  content: ' •';
   padding-top: 0;
-  padding-right: 0.65em;
+  padding-right: 0.35em;
   padding-left: 0;
   padding-bottom: 0;
 }
@@ -379,7 +379,7 @@ hr {
 }
 
 .Article blockquote {
-	font-family: "Founders Grotesk Text" !important; font-size: 85%;
+	font-family: "Founders Grotesk Text" !important; font-size: 90%;
 }
 
 /*
