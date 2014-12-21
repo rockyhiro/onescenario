@@ -179,7 +179,7 @@ html {
 }
 
 body {
-  color: #16161d;
+  color: #424242;
   font-size: 1.1rem;
   font-family: TiemposText, georgia, serif;
   line-height: 1.7;
@@ -217,7 +217,7 @@ pre {
 
 mark {
   background: rgba(245, 245, 0, 0.25);
-  color: #16161d;
+  color: #424242;
 }
 
 img {
@@ -251,7 +251,7 @@ hr {
 
 .Wrapper {
   margin: 0 auto;
-  max-width: 620px;
+  max-width: 600px;
   padding: 0 1rem;
 }
 
@@ -343,7 +343,7 @@ hr {
 }
 
 .Article h1 a {
-  color: #16161d;
+  color: #424242;
   text-decoration: none;
 }
 
