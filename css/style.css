@@ -28,8 +28,8 @@
 
 @font-face {
   font-family: TiemposText;
-  src: url('TiemposText-Semibold.eot'); /* IE9 Compat Modes */
-  src: url('TiemposText-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('TiemposTextWeb-Semibold.eot'); /* IE9 Compat Modes */
+  src: url('TiemposTextWeb-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
   font-style: normal;
   font-weight: bold;
 }
