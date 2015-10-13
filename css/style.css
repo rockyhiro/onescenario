@@ -11,54 +11,6 @@
 }
 
 @font-face {
-  font-family: TiemposText;
-  src: url('TiemposTextWeb-Regular.eot'); /* IE9 Compat Modes */
-  src: url('TiemposTextWeb-Regular.woff') format('woff'); /* Pretty Modern Browsers */
-  font-style: normal;
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: TiemposText;
-  src: url('TiemposTextWeb-RegularItalic.eot'); /* IE9 Compat Modes */
-  src: url('TiemposTextWeb-RegularItalic.woff') format('woff'); /* Pretty Modern Browsers */
-  font-style: italic;
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: TiemposText;
-  src: url('TiemposTextWeb-Semibold.eot'); /* IE9 Compat Modes */
-  src: url('TiemposTextWeb-Semibold.woff') format('woff'); /* Pretty Modern Browsers */
-  font-style: normal;
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: TiemposHeadline;
-  src: url('TiemposHeadlineWeb-Semibold.eot');
-  src: url('TiemposHeadlineWeb-Semibold.woff') format('woff');
-  font-style: normal;
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: 'Founders Grotesk Medium';
-  src: url('FoundersGrotesk/FoundersGroteskWeb-Medium.eot');
-  src: url('FoundersGrotesk/FoundersGroteskWeb-Medium.woff') format('woff');
-  font-style: normal;
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: 'Founders Grotesk Text';
-  src: url('FoundersGrotesk/FoundersGroteskTextWeb-Light.eot');
-  src: url('FoundersGrotesk/FoundersGroteskTextWeb-Light.woff') format('woff');
-  font-style: normal;
-  font-weight: normal;
-}
-
-@font-face {
   font-family: 'Founders Grotesk Text';
   src: url('FoundersGrotesk/FoundersGroteskText-LightItalic_directwrite.eot');
   src: url('FoundersGrotesk/FoundersGroteskText-LightItalic_directwrite.woff') format('woff');
@@ -68,19 +20,19 @@
 
 @font-face {
   font-family: Pitch;
-  src: url('Pitch-light_gdi.eot');
-  src: url('Pitch-light_gdi.woff') format('woff');
+  src: url('Pitch-Light_gdi.eot');
+  src: url('Pitch-Light_gdi.woff') format('woff');
   font-style: normal;
   font-weight: normal;
 }
 
-/*@font-face {
+@font-face {
   font-family: Pitch;
-  src: url('Pitch-Italic_directwrite.eot');
-  src: url('Pitch-Italic_directwrite.woff') format('woff');
+  src: url('Pitch-LightItalic_gdi.eot');
+  src: url('Pitch-LightItalic_gdi.woff') format('woff');
   font-style: italic;
   font-weight: normal;
-} */
+}
 
 /*
  * Normalize
@@ -302,6 +254,7 @@ hr {
 .HeaderNav {
   font-family: Pitch;
   font-weight: normal;
+  font-size: 0.95rem;
 }
 
 .HeaderNav ul {
@@ -400,7 +353,7 @@ body,
 }
 
 .Article blockquote {
-	font-family: "Pitch" !important; font-size: 95%;
+	font-family: "Pitch" !important; font-size: 90%;
 }
 
 /*
