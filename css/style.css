@@ -254,7 +254,7 @@ hr {
 .HeaderNav {
   font-family: Pitch;
   font-weight: normal;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 
 .HeaderNav ul {
@@ -271,7 +271,7 @@ hr {
   display: inline-block;
   content: ' •';
   padding-top: 0;
-  padding-right: 0.25em;
+  padding-right: 0.2em;
   padding-left: 0;
   padding-bottom: 0;
 }
