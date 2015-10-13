@@ -341,7 +341,7 @@ body,
 
 .Article p {
   text-align: left;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
   margin-top: 0;
 }
 
