@@ -594,6 +594,7 @@ body,
   margin: 3rem auto;
   text-align: center;
   font-family: "Pitch";
+  font-size: 0.9rem;
 }
 
 @media (min-width: 40em) {
