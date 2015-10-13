@@ -140,7 +140,7 @@ html {
 
 body {
   color: #424242;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-family: Starling, georgia, serif;
   line-height: 1.4;
   margin-bottom: 0 !important; margin-top: 0 !important;
@@ -261,9 +261,9 @@ hr {
 
 .HeaderNav li:after {
   display: inline-block;
-  content: ' •';
+  content: ' .';
   padding-top: 0;
-  padding-right: 0.3em;
+  padding-right: 0.2em;
   padding-left: 0;
   padding-bottom: 0;
 }
