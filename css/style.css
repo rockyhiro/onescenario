@@ -267,7 +267,7 @@ hr {
 
 .Wrapper {
   margin: 0 auto;
-  max-width: 580px;
+  max-width: 640px;
   padding: 0 1rem;
 }
 
@@ -342,11 +342,7 @@ hr {
 
 .Article p+p {text-indent: 1.5em}
 
-.Article h1, h2, h3, p, time {
-  -webkit-hyphens: auto;
-  -moz-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
+.Article h1, h2, h3, p, time, small {
   font-variant-ligatures: common-ligatures;
   font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum"; 
@@ -399,6 +395,7 @@ hr {
 
 .Article p {
   text-align: left;
+  margin-bottom: 0;
 }
 
 .Article blockquote {
