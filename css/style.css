@@ -367,6 +367,11 @@ hr {
   color: color(#3E62EE shade(40%))
 }
 
+.Article h2,
+.Article h3 {
+	line-height: 1.1;
+}
+
 .Article time {
   font-family: "Founders Grotesk Text";
   color: #b2b2ad;
