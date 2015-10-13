@@ -349,6 +349,8 @@ body,
 
 .Article p {
   text-align: left;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 
 .Article blockquote {
