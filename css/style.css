@@ -11,25 +11,17 @@
 }
 
 @font-face {
-  font-family: 'Founders Grotesk Text';
-  src: url('FoundersGrotesk/FoundersGroteskText-LightItalic_directwrite.eot');
-  src: url('FoundersGrotesk/FoundersGroteskText-LightItalic_directwrite.woff') format('woff');
-  font-style: italic;
-  font-weight: normal;
-}
-
-@font-face {
   font-family: Pitch;
-  src: url('Pitch-Light_gdi.eot');
-  src: url('Pitch-Light_gdi.woff') format('woff');
+  src: url('Pitch_gdi.eot');
+  src: url('Pitch_gdi.woff') format('woff');
   font-style: normal;
   font-weight: normal;
 }
 
 @font-face {
   font-family: Pitch;
-  src: url('Pitch-LightItalic_gdi.eot');
-  src: url('Pitch-LightItalic_gdi.woff') format('woff');
+  src: url('Pitch-Italic_gdi.eot');
+  src: url('Pitch-Italic_gdi.woff') format('woff');
   font-style: italic;
   font-weight: normal;
 }
@@ -148,7 +140,7 @@ html {
 
 body {
   color: #424242;
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   font-family: Starling, georgia, serif;
   line-height: 1.4;
   margin-bottom: 0 !important; margin-top: 0 !important;
@@ -354,7 +346,7 @@ body,
 }
 
 .Article blockquote {
-	font-family: "Pitch" !important; font-size: 90%;
+	font-family: "Pitch" !important; font-size: 80%;
 }
 
 /*
