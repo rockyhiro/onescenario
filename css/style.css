@@ -342,6 +342,7 @@ hr {
 
 .Article p+p {text-indent: 1.5em}
 
+body, 
 .Article h1, h2, h3, p, time, small {
   font-variant-ligatures: common-ligatures;
   font-variant-numeric: oldstyle-nums;
