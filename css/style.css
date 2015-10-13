@@ -5,7 +5,7 @@
   --accent-color: #09654f;
   --off-white: #fafafc;
 
-  --headline-font: "Founders Grotesk Medium", sans-serif;
+  --headline-font: "Pitch", sans-serif;
   --body-font: Starling, georgia, serif;
   --monospace: Consolas, Monaco, Menlo, monospace;
 }
@@ -66,15 +66,15 @@
   font-weight: normal;
 }
 
-/* @font-face {
+@font-face {
   font-family: Pitch;
-  src: url('Pitch_gdi.eot');
-  src: url('Pitch_gdi.woff') format('woff');
+  src: url('Pitch-light_gdi.eot');
+  src: url('Pitch-light_gdi.woff') format('woff');
   font-style: normal;
   font-weight: normal;
 }
 
-@font-face {
+/*@font-face {
   font-family: Pitch;
   src: url('Pitch-Italic_directwrite.eot');
   src: url('Pitch-Italic_directwrite.woff') format('woff');
@@ -160,7 +160,7 @@ svg:not(:root) {
 
 figcaption {
   margin-bottom: 2em;
-  font-family: "Founders Grotesk Text" !important;
+  font-family: "Pitch" !important;
   line-height: 17px !important;
   font-size: 80%;
 }
@@ -300,7 +300,7 @@ hr {
 }
 
 .HeaderNav {
-  font-family: Founders Grotesk Medium;
+  font-family: Pitch;
   font-weight: normal;
 }
 
@@ -400,7 +400,7 @@ body,
 }
 
 .Article blockquote {
-	font-family: "Founders Grotesk Text" !important; font-size: 95%;
+	font-family: "Pitch" !important; font-size: 95%;
 }
 
 /*
@@ -647,7 +647,7 @@ body,
 .Footer {
   margin: 3rem auto;
   text-align: center;
-  font-family: "Founders Grotesk Text";
+  font-family: "Pitch";
 }
 
 @media (min-width: 40em) {
