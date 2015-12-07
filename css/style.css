@@ -261,7 +261,7 @@ hr {
 
 .HeaderNav li:after {
   display: inline-block;
-  content: ' .';
+  content: ' ';
   padding-top: 0;
   padding-right: 0.6em;
   padding-left: 0;
