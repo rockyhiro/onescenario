@@ -285,7 +285,7 @@ hr {
  * Articles
  */
 
-.Article p+p {text-indent: 1.5em}
+/*.Article p+p {text-indent: 1.5em}*/
 
 body, 
 .Article h1, h2, h3, p, time, small {
