@@ -309,14 +309,9 @@ body,
   color: color(#3E62EE shade(40%))
 }
 
-.Article h2 {
+.Article h2, h3 {
   line-height: 1.1;
   font-family: "Mercury Display A", "Mercury Display B";
-}
-
-.Article h3 {
-  line-height: 1.1;
-  font-family: "Mercury SSm A", "Mercury SSm B";
 }
 
 .Article time {
