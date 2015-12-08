@@ -138,10 +138,6 @@ html {
   }
 }
 
-p {
-  font-family: "Mercury SSm A", "Mercury SSm B", georgia, serif;
-}
-
 body {
   color: #424242;
   font-size: 1.1rem;
@@ -241,7 +237,7 @@ hr {
 }
 
 .HeaderAbout {
-  font-family: "Mercury Text G2 SC A", "Mercury Text G2 SC B";
+  font-family: "Mercury SSm A", "Mercury SSm B";
   font-weight: normal;
   margin: 0 0 0.5em;
 }
