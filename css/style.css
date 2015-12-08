@@ -10,22 +10,6 @@
   --monospace: Consolas, Monaco, Menlo, monospace;
 }
 
-@font-face {
-  font-family: Pitch;
-  src: url('Pitch_gdi.eot');
-  src: url('Pitch_gdi.woff') format('woff');
-  font-style: normal;
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: Pitch;
-  src: url('Pitch-Italic_gdi.eot');
-  src: url('Pitch-Italic_gdi.woff') format('woff');
-  font-style: italic;
-  font-weight: normal;
-}
-
 /*
  * Normalize
  */
@@ -104,7 +88,7 @@ svg:not(:root) {
 
 figcaption {
   margin-bottom: 2em;
-  font-family: "Pitch" !important;
+  font-family: "Gotham SSm A", "Gotham SSm B" !important;
   line-height: 17px !important;
   font-size: 80%;
 }
