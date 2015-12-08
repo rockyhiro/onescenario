@@ -138,12 +138,15 @@ html {
   }
 }
 
+p {
+  font-family: "Mercury SSm A", "Mercury SSm B", georgia, serif;
+}
+
 body {
   color: #424242;
   font-size: 1.1rem;
   font-family: "Mercury SSm A", "Mercury SSm B", georgia, serif;
   line-height: 1.5;
-  margin-bottom: 0 !important; margin-top: 0 !important;
 }
 
 a {
