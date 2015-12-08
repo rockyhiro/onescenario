@@ -1,5 +1,5 @@
 ---
-time: 1449572898
+time: 1449572962
 inventory:
   "/writing/index.html":
     md5: 662bd30ad9e040b697b292fab9ac3cd9
@@ -268,18 +268,24 @@ inventory:
   "/materials/index.html":
     md5: 836d2e734e53d82b492d3d1b9321c62c
     time: 1449572896
-  "/materials/graas/index.html":
-    md5: c006ca98cf18986d3eefee4a4b9005df
-    time: 1449572896
+  "/materials/nicolas-graas/index.html":
+    md5: 2a9507160f5449895c9b247764efaf4e
+    time: 1449572959
+  "/materials/archive/index.html":
+    md5: 0159224009e0a3a13d36dc827d607ce6
+    time: 1449572959
+  "/materials/tags/index.html":
+    md5: af00e3f03aa79351a4f88835b93dc978
+    time: 1449572959
   "/CNAME":
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: db8bd7278f64faf696ad14ae1128d463
-    time: 1449572896
+    md5: f016610f825a2e97990e23a8bb1aeea2
+    time: 1449572959
   "/feed.xml":
-    md5: 51eed0a1c561671512372cd37a937288
-    time: 1449572896
+    md5: 6b82c8ab8b539bbdf28395f7d8ba2bd6
+    time: 1449572960
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
