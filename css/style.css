@@ -5,7 +5,7 @@
   --accent-color: #09654f;
   --off-white: #fafafc;
 
-  --headline-font: "Pitch", sans-serif;
+  --headline-font: "Gotham SSm A", "Gotham SSm B", sans-serif;
   --body-font: "Mercury SSm A", "Mercury SSm B", georgia, serif;
   --monospace: Consolas, Monaco, Menlo, monospace;
 }
@@ -243,7 +243,7 @@ hr {
 }
 
 .HeaderNav {
-  font-family: Pitch;
+  font-family: "Gotham SSm A", "Gotham SSm B";
   font-weight: normal;
   font-size: 0.9rem;
 }
@@ -309,7 +309,7 @@ body,
 
 .Article h1,
 .Title {
-  font-family: "Quarto A", "Quarto B", georgia;
+  font-family: "Mercury Display A", "Mercury Display B", georgia;
   font-size: 2.125rem;
   font-weight: bold;
   line-height: 1.1;
@@ -328,6 +328,7 @@ body,
 .Article h2,
 .Article h3 {
 	line-height: 1.1;
+  font-family: "Mercury Display A", "Mercury Display B";
 }
 
 .Article time {
@@ -345,7 +346,7 @@ body,
 }
 
 .Article blockquote {
-	font-family: "Pitch" !important; font-size: 80%;
+	font-family: "Gotham SSm A", "Gotham SSm B"; font-size: 80%;
 }
 
 /*
@@ -592,7 +593,7 @@ body,
 .Footer {
   margin: 3rem auto;
   text-align: center;
-  font-family: "Pitch";
+  font-family: "Gotham SSm A", "Gotham SSm B";
   font-size: 0.9rem;
 }
 
