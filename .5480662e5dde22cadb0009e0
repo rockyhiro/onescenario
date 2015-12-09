@@ -1,15 +1,12 @@
 ---
-time: 1449589672
+time: 1449619430
 inventory:
   "/writing/index.html":
-    md5: 25f37ad411a49bcfc8d41cc5f358e2af
-    time: 1449589637
+    md5: 1455138d607d73d514a9913cbfc70301
+    time: 1449619428
   "/index.html":
-    md5: 25f37ad411a49bcfc8d41cc5f358e2af
-    time: 1449589637
-  "/writing/on-being-servant/index.html":
-    md5: e8cab781eab9c6695488705735218e74
-    time: 1449589637
+    md5: 1455138d607d73d514a9913cbfc70301
+    time: 1449619428
   "/writing/why-studying-culture-in-family-business-a-personal-view/index.html":
     md5: 0772d68b05a2ca02bb0c7369be5d16f2
     time: 1449589637
@@ -106,164 +103,8 @@ inventory:
   "/about/index.html":
     md5: 2f2ef3fba4f58cca03f3a13bbed64647
     time: 1449589637
-  "/definitions/index.html":
-    md5: 67a4db226726dfcbcddf5a6d89d05258
-    time: 1449589637
-  "/definitions/dyer-1988-culture-and-continuity-in-family-firms/index.html":
-    md5: 7c3cc8d3ea89753195073ac552ce429d
-    time: 1449589637
-  "/definitions/pettigrew-1979-on-studying-organizational-cultures/index.html":
-    md5: 25d92ade0f039afd3309e772d2152327
-    time: 1449589637
-  "/definitions/schein-1983-the-role-of-the-founder-in-creating-organizational-culture/index.html":
-    md5: 6878fc99f21ca403e718364427aa2bee
-    time: 1449589637
-  "/definitions/alvesson-2013-understanding-organizational-culture/index.html":
-    md5: 27f0129e46f841b02b64b935e306a057
-    time: 1449589637
-  "/definitions/geertz-1973-the-interpretation-of-cultures/index.html":
-    md5: 4cf83f84ea43647330691aa4e8bfe3ff
-    time: 1449589637
-  "/definitions/archive/index.html":
-    md5: b8928f17eeba5cbde46c7d6eceeddde8
-    time: 1449589637
-  "/definitions/tags/index.html":
-    md5: d9599e85da09bfe74fc90501c82fd319
-    time: 1449589637
-  "/definitions/tags/dyer/index.html":
-    md5: 07ff3019d14e7837cae12adf07ae109d
-    time: 1449589637
-  "/definitions/tags/definition/index.html":
-    md5: 331347d0948649423f47165517cb18a6
-    time: 1449589637
-  "/definitions/tags/construct/index.html":
-    md5: 294a85d935d5acbaa099ac71aba92cf9
-    time: 1449589637
-  "/definitions/tags/family-business-culture/index.html":
-    md5: 01658c8a62d025cde6d40a23d95cc7f0
-    time: 1449589637
-  "/definitions/tags/1988/index.html":
-    md5: 0ec83b771979d50990f7428b92a57f68
-    time: 1449589637
-  "/definitions/tags/journal-article/index.html":
-    md5: 1d88f07729c7eeda1045ebb8cab71161
-    time: 1449589638
-  "/definitions/tags/pettigrew/index.html":
-    md5: d9e6cf5a8f2b4eab3657a5953d051987
-    time: 1449589638
-  "/definitions/tags/1979/index.html":
-    md5: e779637afd644b98a820d3e4f5c255a6
-    time: 1449589638
-  "/definitions/tags/schein/index.html":
-    md5: bb9374f91aef689b30ab9407e03ce7f4
-    time: 1449589638
-  "/definitions/tags/1983/index.html":
-    md5: f9cf66595f8a41219d3e565c98e9ca28
-    time: 1449589638
-  "/definitions/tags/alvesson/index.html":
-    md5: 34d775101e79ac9589d29d79d19c52b2
-    time: 1449589638
-  "/definitions/tags/2013/index.html":
-    md5: ed37ded2e2466e6c8584cbc7b9bc5f37
-    time: 1449589638
-  "/definitions/tags/book/index.html":
-    md5: 7610381a0bb257575b4c6a650229de73
-    time: 1449589638
-  "/definitions/tags/geertz/index.html":
-    md5: 839bc8480fd05cded85a9fdc4d8cb7f4
-    time: 1449589638
-  "/definitions/tags/1973/index.html":
-    md5: cda1a105c8166bc7b95db323230fe296
-    time: 1449589638
-  "/perspectives/index.html":
-    md5: 76a56270d7dbee3a360a149c126e65bc
-    time: 1449589638
-  "/perspectives/martin-1992-cultures-in-organization/index.html":
-    md5: 1e6c89501af2456e01853e2b536acf63
-    time: 1449589638
-  "/perspectives/smircich-1983-concepts-of-culture-and-organizational-analysis/index.html":
-    md5: 919b47a506307ddecde5398fe06eb79a
-    time: 1449589638
-  "/perspectives/archive/index.html":
-    md5: 342c6e4907f9a1ee85b59f7148b05b4e
-    time: 1449589638
-  "/perspectives/tags/index.html":
-    md5: d9599e85da09bfe74fc90501c82fd319
-    time: 1449589638
-  "/perspectives/tags/martin/index.html":
-    md5: c0f3f094ee78d2264e23725f7fd554fa
-    time: 1449589638
-  "/perspectives/tags/1992/index.html":
-    md5: 8e074c7adcfa59df11c54843a3d7cb88
-    time: 1449589638
-  "/perspectives/tags/perspective/index.html":
-    md5: 9d37170cf5f4ac167318c07e3cc280b0
-    time: 1449589638
-  "/perspectives/tags/integration/index.html":
-    md5: 154253980aef5b63f12d884d53db3aca
-    time: 1449589638
-  "/perspectives/tags/differentiation/index.html":
-    md5: 2b8c88267168863c4768c134d227c4fe
-    time: 1449589638
-  "/perspectives/tags/fragmentation/index.html":
-    md5: 9c79223ddb062254d95363dc439a70ac
-    time: 1449589638
-  "/perspectives/tags/book/index.html":
-    md5: 7610381a0bb257575b4c6a650229de73
-    time: 1449589638
-  "/perspectives/tags/smircich/index.html":
-    md5: 0bc8fc8892c91ebfa721abcdb9090592
-    time: 1449589638
-  "/perspectives/tags/construct/index.html":
-    md5: 294a85d935d5acbaa099ac71aba92cf9
-    time: 1449589638
-  "/perspectives/tags/metaphor/index.html":
-    md5: 56467ce6b8a6df9ebe0c4511ea7ce1aa
-    time: 1449589638
-  "/perspectives/tags/1983/index.html":
-    md5: f9cf66595f8a41219d3e565c98e9ca28
-    time: 1449589638
-  "/perspectives/tags/journal-article/index.html":
-    md5: 1d88f07729c7eeda1045ebb8cab71161
-    time: 1449589638
-  "/reviews-in-family-business/index.html":
-    md5: a8e49d1544753f3f7677774195c71468
-    time: 1449589638
-  "/reviews-in-family-business/fletcher-melin-gimeno-2012/index.html":
-    md5: 738776838667907c6da3ca3160216e15
-    time: 1449589638
-  "/reviews-in-family-business/archive/index.html":
-    md5: 518faed3ffe15f86506937ffa05a8c4d
-    time: 1449589638
-  "/reviews-in-family-business/tags/index.html":
-    md5: d9599e85da09bfe74fc90501c82fd319
-    time: 1449589638
-  "/reviews-in-family-business/tags/fletcher/index.html":
-    md5: 0f623141f99abe782577c4d6b0db41ca
-    time: 1449589638
-  "/reviews-in-family-business/tags/melin/index.html":
-    md5: 776910c58592e0e70c979f7523ba90e6
-    time: 1449589638
-  "/reviews-in-family-business/tags/gimeno/index.html":
-    md5: 1a3eb1a062efa1fae22ba3e2ce6120d7
-    time: 1449589638
-  "/reviews-in-family-business/tags/review/index.html":
-    md5: b640932fe5de9596ee8cc439599a8a57
-    time: 1449589638
-  "/reviews-in-family-business/tags/family-business/index.html":
-    md5: 06278e03d161ce07f8525d3876063f25
-    time: 1449589638
-  "/reviews-in-family-business/tags/2012/index.html":
-    md5: 34652e15319a47f998088e56362d8489
-    time: 1449589638
-  "/reviews-in-family-business/tags/journal-article/index.html":
-    md5: 1d88f07729c7eeda1045ebb8cab71161
-    time: 1449589638
   "/methodology/index.html":
     md5: d8c992375936927f46beccb01f28baa0
-    time: 1449589638
-  "/paradigms/index.html":
-    md5: c05f4b5668aab351dc1a8040e73af712
     time: 1449589638
   "/materials/index.html":
     md5: c0c35ee9f770b9c85530762948c9cc20
@@ -272,11 +113,11 @@ inventory:
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: d44b5f6baa644504c4116e956365d76a
-    time: 1449573141
+    md5: c581c0a1dab660f29cb8643c56c06b80
+    time: 1449619429
   "/feed.xml":
-    md5: f11bde0af58182bd13d9fc865a530aa1
-    time: 1449589638
+    md5: d387f1069a7bdbbb20b97bee773447ff
+    time: 1449619429
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
