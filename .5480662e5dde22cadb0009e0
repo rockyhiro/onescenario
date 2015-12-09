@@ -1,5 +1,5 @@
 ---
-time: 1449669172
+time: 1449671342
 inventory:
   "/writing/index.html":
     md5: 98f5bf586f112b510146c3674259899c
@@ -110,17 +110,17 @@ inventory:
     md5: d8a0ea9a985adb97ccfd26320538cadf
     time: 1449669156
   "/introduction/index.html":
-    md5: af37c1f5b2ea04b4eb5d8f9103c55075
-    time: 1449669156
+    md5: d507c3786d3523faac90bde6f8df0620
+    time: 1449671341
   "/CNAME":
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: 00ad0f238c0600692b7c657a7f3d860b
-    time: 1449669156
+    md5: 5ef90d29a21bc6edc99a39fd6c2559d0
+    time: 1449671341
   "/feed.xml":
-    md5: b6d8e11beebfa1dffd22a2906769e0a0
-    time: 1449669156
+    md5: b8c05eab9697f521215417989fb432be
+    time: 1449671341
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
