@@ -3,6 +3,49 @@
 
   <url>
     <loc>http://fbculture.com/</loc>
+    <lastmod>2015-12-09T14:37:08+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fbculture.com/reflections/why-studying-culture-in-family-business-a-personal-view</loc>
+    <lastmod>2014-12-14T22:29:05+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://fbculture.com/reflections/culture-as-they-see-it</loc>
+    <lastmod>2014-12-12T00:28:09+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://fbculture.com/reflections/28th-rent-conference-luxembourg-takeaways</loc>
+    <lastmod>2014-12-12T23:55:45+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://fbculture.com/reflections/andrew-pettigrews-message-to-young-scholars</loc>
+    <lastmod>2014-12-08T07:19:59+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://fbculture.com/reflections/when-those-who-know-are-not-necessarily-those-who-do</loc>
+    <lastmod>2014-12-15T08:58:58+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://fbculture.com/reflections/strategy-as-process-and-practice-a-short-reflection</loc>
+    <lastmod>2014-12-08T09:54:36+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://fbculture.com/introduction</loc>
     <lastmod>2015-12-09T14:34:22+00:00</lastmod>
     <priority>1.0</priority>
   </url>
@@ -40,49 +83,6 @@
     <loc>http://fbculture.com/quotes</loc>
     <lastmod>2015-12-09T00:07:55+00:00</lastmod>
     <priority>1.0</priority>
-  </url>
-  
-
-  <url>
-    <loc>http://fbculture.com/writing</loc>
-    <lastmod>2015-12-09T14:34:26+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://fbculture.com/writing/why-studying-culture-in-family-business-a-personal-view</loc>
-    <lastmod>2014-12-14T22:29:05+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://fbculture.com/writing/culture-as-they-see-it</loc>
-    <lastmod>2014-12-12T00:28:09+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://fbculture.com/writing/28th-rent-conference-luxembourg-takeaways</loc>
-    <lastmod>2014-12-12T23:55:45+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://fbculture.com/writing/andrew-pettigrews-message-to-young-scholars</loc>
-    <lastmod>2014-12-08T07:19:59+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://fbculture.com/writing/when-those-who-know-are-not-necessarily-those-who-do</loc>
-    <lastmod>2014-12-15T08:58:58+00:00</lastmod>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://fbculture.com/writing/strategy-as-process-and-practice-a-short-reflection</loc>
-    <lastmod>2014-12-08T09:54:36+00:00</lastmod>
-    <priority>0.5</priority>
   </url>
   
 
