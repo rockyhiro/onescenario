@@ -3,7 +3,49 @@
 
   <url>
     <loc>http://fbculture.com/</loc>
-    <lastmod>2014-12-08T12:16:17+00:00</lastmod>
+    <lastmod>2015-12-09T14:34:22+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://fbculture.com/what-is-organizational-culture</loc>
+    <lastmod>2015-12-09T14:35:42+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://fbculture.com/materials</loc>
+    <lastmod>2015-12-09T14:34:35+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://fbculture.com/reading</loc>
+    <lastmod>2014-12-11T11:40:06+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://fbculture.com/drafts</loc>
+    <lastmod>2014-12-15T17:03:29+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://fbculture.com/quotes</loc>
+    <lastmod>2015-12-09T00:07:55+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://fbculture.com/writing</loc>
+    <lastmod>2015-12-09T14:34:26+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
@@ -45,43 +87,8 @@
   
 
   <url>
-    <loc>http://fbculture.com/reading</loc>
-    <lastmod>2014-12-11T11:40:06+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-
-  <url>
-    <loc>http://fbculture.com/drafts</loc>
-    <lastmod>2014-12-15T17:03:29+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-
-  <url>
-    <loc>http://fbculture.com/quotes</loc>
-    <lastmod>2015-12-09T00:07:55+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-
-  <url>
-    <loc>http://fbculture.com/materials</loc>
-    <lastmod>2015-12-09T00:06:59+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-
-  <url>
     <loc>http://fbculture.com/about</loc>
     <lastmod>2015-12-09T00:05:23+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-
-  <url>
-    <loc>http://fbculture.com/introduction</loc>
-    <lastmod>2015-12-09T14:30:54+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
