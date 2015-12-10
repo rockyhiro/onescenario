@@ -52,7 +52,7 @@
 
   <url>
     <loc>http://fbculture.com/introduction</loc>
-    <lastmod>2015-12-09T23:59:05+00:00</lastmod>
+    <lastmod>2015-12-10T23:04:53+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
@@ -66,7 +66,7 @@
 
   <url>
     <loc>http://fbculture.com/culture-and-family-business</loc>
-    <lastmod>2015-12-10T00:07:53+00:00</lastmod>
+    <lastmod>2015-12-10T23:04:31+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
@@ -79,22 +79,15 @@
   
 
   <url>
-    <loc>http://fbculture.com/reading</loc>
-    <lastmod>2014-12-11T11:40:06+00:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-
-  <url>
-    <loc>http://fbculture.com/drafts</loc>
-    <lastmod>2014-12-15T17:03:29+00:00</lastmod>
+    <loc>http://fbculture.com/readings</loc>
+    <lastmod>2015-12-10T23:03:52+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
 
   <url>
     <loc>http://fbculture.com/quotes</loc>
-    <lastmod>2015-12-09T00:07:55+00:00</lastmod>
+    <lastmod>2015-12-10T23:03:08+00:00</lastmod>
     <priority>1.0</priority>
   </url>
   
