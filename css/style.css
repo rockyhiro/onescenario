@@ -27,6 +27,11 @@ p, blockquote {
   hyphens: auto;
 }
 
+.leadin {
+  font-family: "Mercury SSm SC A", "Mercury SSm SC B", serif;
+  letter-spacing: .06em;
+}
+
 article,
 aside,
 details,
