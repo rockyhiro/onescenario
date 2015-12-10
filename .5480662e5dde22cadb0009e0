@@ -1,5 +1,5 @@
 ---
-time: 1449788860
+time: 1449789160
 inventory:
   "/sketches/index.html":
     md5: be268b0e1f18e54ca490e6e27ac07737
@@ -104,14 +104,14 @@ inventory:
     md5: 5fc511139e93ac59c46c66bfeb94eb01
     time: 1449788695
   "/materials/index.html":
-    md5: 9f9366077163f2060e0ff3931330e6db
-    time: 1449788695
+    md5: f2139a47b94850dac232c8fc0c79b636
+    time: 1449789158
   "/methodology/index.html":
     md5: d041cd827a2e08ad9537a7d3a3acdd8d
     time: 1449788695
   "/readings/index.html":
-    md5: aafa1f30f2efa4329c477871a9666100
-    time: 1449788695
+    md5: e922dd9f47b1313917e31daac35989d5
+    time: 1449789158
   "/quotes/index.html":
     md5: 6bd5be7e50d13b4c441d801f00bd1557
     time: 1449788695
@@ -122,11 +122,11 @@ inventory:
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: b86ad7bff6f720bfb021b6c8507cb9df
-    time: 1449788858
+    md5: e15fc0342685f3685cb68fa0a0491457
+    time: 1449789158
   "/feed.xml":
-    md5: cc74cacee5556656fdb0c7011ef9ff78
-    time: 1449788858
+    md5: 91e143163dc0614e09b21bbd0624444b
+    time: 1449789158
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
@@ -173,8 +173,8 @@ inventory:
     md5: dec4ac3ebb5eee795ce7f09f332edb38
     time: 1449671745
   "/css/style.css":
-    md5: 391d17aa2787f2ca2473b2ea29367f73
-    time: 1449786941
+    md5: 5d7aaf7bc52a4f5a3435e7bd937f6520
+    time: 1449789158
   "/assets/2012-2014 review.png":
     md5: 4e703de0e104f300f6bc97b800c2eab9
     time: 1418121696
