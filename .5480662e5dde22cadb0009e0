@@ -1,5 +1,5 @@
 ---
-time: 1449706076
+time: 1449739683
 inventory:
   "/sketches/index.html":
     md5: 593d3f51fe71a3a56f8e75f4cdb42c7f
@@ -172,12 +172,12 @@ inventory:
   "/assets/IMG_1723.jpg":
     md5: fa88a87b1b81e209e162b054d586df1d
     time: 1418121696
-  "/css/style.css":
-    md5: fd89f59fb9bead1538c4200e4cc72ccc
-    time: 1449671745
   "/favicon.ico":
     md5: dec4ac3ebb5eee795ce7f09f332edb38
     time: 1449671745
+  "/css/style.css":
+    md5: e1ac986b1c4e8ae01799edc78be3f710
+    time: 1449739683
   "/assets/2012-2014 review.png":
     md5: 4e703de0e104f300f6bc97b800c2eab9
     time: 1418121696
