@@ -1,5 +1,5 @@
 ---
-time: 1449786278
+time: 1449786321
 inventory:
   "/sketches/index.html":
     md5: 593d3f51fe71a3a56f8e75f4cdb42c7f
@@ -98,8 +98,8 @@ inventory:
     md5: 51328b0109fe47b16ace19217bbdb3e4
     time: 1449705967
   "/what-is-organizational-culture/index.html":
-    md5: 8dec84a35d8056c13e835b33ee37ad1c
-    time: 1449786277
+    md5: f525fde80e5273511ceb456472f87d24
+    time: 1449786319
   "/culture-and-family-business/index.html":
     md5: 4c4fdd2e94a6594937c2069c17e4a3cc
     time: 1449706075
@@ -125,11 +125,11 @@ inventory:
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: 1731245f6688b87968624c6c79af0a09
-    time: 1449786277
+    md5: 6140b7b3078cba728ef80cbed93c1c15
+    time: 1449786319
   "/feed.xml":
-    md5: b7acc364202e3f164579c1ed8edf4800
-    time: 1449786277
+    md5: 683b09d82258eab3c51178bb8a2e869f
+    time: 1449786319
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
