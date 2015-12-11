@@ -1,18 +1,18 @@
 ---
-time: 1449842334
+time: 1449842471
 inventory:
   "/sketches/index.html":
-    md5: 62520483339d0aa9a2daf6f09bd2db7a
-    time: 1449842116
+    md5: 4e1e67e217ce9619efd0423b86d662a9
+    time: 1449842469
   "/index.html":
-    md5: 62520483339d0aa9a2daf6f09bd2db7a
-    time: 1449842116
+    md5: 4e1e67e217ce9619efd0423b86d662a9
+    time: 1449842469
   "/sketches/avoiding-disjunctive-scholarship/index.html":
-    md5: 3c81a8c99129807a895bbab1e03e104c
-    time: 1449788694
+    md5: 55469e10c8e4d32101856d0cf041ca9b
+    time: 1449842469
   "/sketches/a-book-chapter-on-family-business-culture/index.html":
-    md5: 4613616818e0c78305908ee72efeac80
-    time: 1449842328
+    md5: 9ef7cbd3bd8e4938d8052d573562f655
+    time: 1449842469
   "/sketches/why-studying-culture-in-family-business-a-personal-view/index.html":
     md5: 71d2fa37a8c4ceec7287991a404f298d
     time: 1449788694
@@ -128,11 +128,11 @@ inventory:
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: 1f005aaf933d64fefbb8ffe88cefdaa4
-    time: 1449842332
+    md5: eb4742f179a3815d0774677a1bb67009
+    time: 1449842469
   "/feed.xml":
-    md5: 9c4d843c0ee974cab85e585bd2e62221
-    time: 1449842332
+    md5: 0bc0ad7b452729e8b26da6b7befb462e
+    time: 1449842469
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
