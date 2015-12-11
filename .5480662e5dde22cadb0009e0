@@ -1,12 +1,15 @@
 ---
-time: 1449829838
+time: 1449842086
 inventory:
   "/sketches/index.html":
-    md5: be268b0e1f18e54ca490e6e27ac07737
-    time: 1449788694
+    md5: 2231d62a094fab0cbade1584e0661060
+    time: 1449842081
   "/index.html":
-    md5: be268b0e1f18e54ca490e6e27ac07737
-    time: 1449788694
+    md5: 2231d62a094fab0cbade1584e0661060
+    time: 1449842081
+  "/sketches/a-book-chapter-on-family-business-culture/index.html":
+    md5: a62b2bf556d469835644d347f5d06acb
+    time: 1449842081
   "/sketches/avoiding-disjunctive-scholarship/index.html":
     md5: 3c81a8c99129807a895bbab1e03e104c
     time: 1449788694
@@ -40,6 +43,9 @@ inventory:
   "/sketches/tags/index.html":
     md5: 0ce79cb98dcd32ace6ae3704214eb5dd
     time: 1449788695
+  "/sketches/tags/book-chapter/index.html":
+    md5: a7932a3bd9a36521d6f0ec111aae49dc
+    time: 1449842082
   "/sketches/tags/personal-view/index.html":
     md5: a89c42012d98ee0903d32fdad8b09079
     time: 1449788695
@@ -122,11 +128,11 @@ inventory:
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: 2860df72b41e6386a8bece3dccd3a42e
-    time: 1449829837
+    md5: 7f32b5f76ff8832d9b72657a89327e1a
+    time: 1449842082
   "/feed.xml":
-    md5: b34cc96c71bc34df77b2e146f145122b
-    time: 1449829837
+    md5: 31749a275d8096a0a7d7a39b80012cdb
+    time: 1449842082
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
@@ -175,15 +181,24 @@ inventory:
   "/css/style.css":
     md5: 5d7aaf7bc52a4f5a3435e7bd937f6520
     time: 1449789158
+  "/assets/Cover-Page.jpeg":
+    md5: 6049e507ee6c2425be41a1862a117ec7
+    time: 1449842082
   "/assets/2012-2014 review.png":
     md5: 4e703de0e104f300f6bc97b800c2eab9
     time: 1418121696
   "/assets/IMG_1919.jpg":
     md5: 8bf985a1d354d92dc709de8bdcd96092
     time: 1418121697
+  "/assets/Table of contents.png":
+    md5: 47166d51862d2d1f462520a3d523be9b
+    time: 1449842083
   "/assets/IMG_1714.jpg":
     md5: 9c9990c9b56cbfdbbcc4eb578328070f
     time: 1418121697
+  "/assets/The contributors.png":
+    md5: 847230971e42381c4b8f3df29c09590b
+    time: 1449842083
   "/assets/IMG_1516.jpg":
     md5: 2b8ecf613d12d827b7c98e276241d399
     time: 1418121698
