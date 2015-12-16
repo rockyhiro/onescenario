@@ -1,5 +1,5 @@
 ---
-time: 1450260283
+time: 1450260297
 inventory:
   "/sketches/index.html":
     md5: 4e1e67e217ce9619efd0423b86d662a9
@@ -110,8 +110,8 @@ inventory:
     md5: f8599f1af2b0ef7810bf8a86ab5c6fa1
     time: 1450105079
   "/materials/index.html":
-    md5: 1928c0efa6e765a4815f5ebe97cc6820
-    time: 1450260282
+    md5: 181e90778b56b76cbeb28b47463cefcb
+    time: 1450260296
   "/methodology/index.html":
     md5: d041cd827a2e08ad9537a7d3a3acdd8d
     time: 1449788695
@@ -128,11 +128,11 @@ inventory:
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: 852c7af9ba2428d220541ddd95a6310e
-    time: 1450260282
+    md5: 5648cf197c943549d99147e79869c9f0
+    time: 1450260296
   "/feed.xml":
-    md5: b0e19c991ad983dbd8d6b1a38901e5f4
-    time: 1450260282
+    md5: d28f49f2d7d19a181f3f4ef3c84ed4db
+    time: 1450260296
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
