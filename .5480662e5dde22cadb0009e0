@@ -1,12 +1,15 @@
 ---
-time: 1450260297
+time: 1450277631
 inventory:
   "/sketches/index.html":
-    md5: 4e1e67e217ce9619efd0423b86d662a9
-    time: 1449842469
+    md5: 30c66c4f1185713ba9209dbb871a1fb1
+    time: 1450277629
   "/index.html":
-    md5: 4e1e67e217ce9619efd0423b86d662a9
-    time: 1449842469
+    md5: 30c66c4f1185713ba9209dbb871a1fb1
+    time: 1450277629
+  "/sketches/whats-the-winning-in-picking-up-the-flower/index.html":
+    md5: 76b8c6d44f2ae791aab934188fe8ed33
+    time: 1450277629
   "/sketches/avoiding-disjunctive-scholarship/index.html":
     md5: 55469e10c8e4d32101856d0cf041ca9b
     time: 1449842469
@@ -128,11 +131,11 @@ inventory:
     md5: d9915b6fb6e6d01f26f0a044e82887a3
     time: 1449482548
   "/sitemap.xml":
-    md5: 5648cf197c943549d99147e79869c9f0
-    time: 1450260296
+    md5: 2cae7f50942cef1b0b778a293ac45d4a
+    time: 1450277629
   "/feed.xml":
-    md5: d28f49f2d7d19a181f3f4ef3c84ed4db
-    time: 1450260296
+    md5: b7a75fd117b8554085f9bcfd29e7271e
+    time: 1450277629
   "/assets/Intersections of culture theory and organization theory (Smircich, 1983).png":
     md5: 7b1dfd6b1c02b9abc35778e62bc8673b
     time: 1418121690
