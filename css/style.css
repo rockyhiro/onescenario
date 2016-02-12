@@ -134,7 +134,7 @@ html {
 
 body {
   color: #424242;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   font-family: "Mercury SSm A", "Mercury SSm B", georgia, serif;
   line-height: 1.5;
 }
@@ -214,11 +214,11 @@ hr {
 
 .Header,
 .Footer {
-  font-size: 0.95rem;
+  font-size: 0.75rem;
 }
 
 .footnotes {
-  font-size: 0.95rem;
+  font-size: 0.8rem;
 
 }
 
@@ -239,7 +239,7 @@ hr {
 .HeaderNav {
   font-family: "Gotham SSm A", "Gotham SSm B";
   font-weight: normal;
-  font-size: 0.9rem;
+  font-size: 0.75rem;
 }
 
 .HeaderNav ul {
@@ -329,7 +329,7 @@ body,
   font-style: italic;
   color: #b2b2ad;
   display: block;
-  font-size: 1.2rem;
+  font-size: 0.9rem;
 }
 
 .Article p {
@@ -587,7 +587,7 @@ body,
   margin: 3rem auto;
   text-align: center;
   font-family: "Gotham SSm A", "Gotham SSm B";
-  font-size: 0.9rem;
+  font-size: 0.75rem;
 }
 
 @media (min-width: 40em) {
